@@ -459,68 +459,14 @@ html
 .edu-exp
 {
     background: var(--black);
-   /* display: flex;*/
 }
 
-/*.edu-exp-container
-{
-   position: relative;
-    width:90%;
-    max-width: 120rem;
-    height:100%;
-    margin: 80px;
-    padding-bottom: 80px;
-    text-align: center;
-
-}
-*/
 .edu-title
 {
     color:var(--white-color);
    font-size: 5.5rem;
 }
-/*.edu-exp-heading
-{
-    text-align:center;
-    margin:8rem 0;
-}
 
-.edu-exp-heading h1
-{
-    font-size: 4rem;
-    color:var(--white-color);
-    text-transform: uppercase;
-    font-weight: 300;
-    position: relative;
-    margin-bottom: 1rem;
-}
-
-.edu-exp-heading h1::before,
-.edu-exp-heading h1::after
-{
-    content:'';
-    position: relative;
-    bottom: -0.5rem;
-    top:50%;
-    transform: translateX(-50%);
-    background-color: rgba(255,255,255,0.75);
-}
-
-.edu-exp-heading h1::before
-{
-    width:10rem;
-    height:3px;
-    border-radius:0.8rem;
-}
-
-.edu-exp-heading h1::after
-{
-    width:1.5rem;
-    height:1.5rem;
-    border-radius:100%;
-    bottom: -1rem;
-}
-*/
 .edu-exp-detail ul
 {
     border-left : 4px solid var(--white-color);
@@ -623,105 +569,7 @@ html
     text-transform: uppercase;
     font-weight: bold;
 }
-/*
-.certificate-title
-{
-    font-size: 9.5rem;
-    text-transform: uppercase;
-    color:var(--white-color);
-    text-shadow: 0 .1rem .2rem var(--primary-color);
-    margin-bottom: 10rem;
-    text-align: center;
-    justify-content: center;
-    position: relative;
-    left:20%;
 
-}
-
-.certificate-details
-{
-   background: var(--white-color);
-   width:250px;
-   height:250px;
-    display: inline-flex;
-    margin:10px 0 20px 30px;
-    text-align: center;
-    box-shadow: 5px 6px 10px rgba(158,156,156,0.8);
-    cursor: pointer;
-    position: relative;
-    left:20%;
-    
-}
-
-.certificate-details p 
-{
-    font-size: 20px;
-    color:#676565;
-    position: relative;
-    top:30%;
-    bottom: 50%;
-    padding:20px 5px;
-}
-
-
-.certificate-icon i
-{
-    font-size:50px;
-    margin-top:30px;
-    color:var(--light-blue);
-    transition : all 0.5s;
-}
-
-.certificate-icon i:hover
-{
-    transform: rotate(360deg);
-}
-
-.certificate-back
-{
-    background: var(--light-blue);
-    width:100%;
-    height:100%;
-    display: block;
-    position: absolute;
-    top:0;
-    transition: all 0.6s;
-}
-
-.certificate-details:hover .certificate-back
-{
-    top:250px;
-}
-
-.certificate-back i 
-{
-    color:#fff;
-    font-size:5rem;
-    margin-top:3rem;
-}
-
-.certificate-back h2
-{
-font-size: 2.8rem;
-text-transform: uppercase;
-letter-spacing:1px ;
-padding:30px 0;
-color:#fff;
-}
-
-/*.certificate-back p
-{
-    text-transform: uppercase;
-    letter-spacing: 2.5;
-    font-weight: 600;
-    color:#fff;
-    display: inline-block;
-    padding:0 10px;
-    margin: 0 !important;
-    border-bottom:2px solid #fff;
-
-}
-*/
 .certificate-container
 {
     width:95%;
