@@ -7,4 +7,6 @@ Technologies used -> HTML -> CSS -> Javascript
 
 Preview
 
+![Screenshot (443)](https://user-images.githubusercontent.com/43793485/91223449-40d65b80-e73e-11ea-9b3b-d4d2cbf5b9a2.png)
+
 
